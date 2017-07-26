@@ -1,0 +1,49 @@
+/* Stylesheet for Soccer Site */
+
+
+#staticbar { 
+    display: flex;
+    flex-direction: row ;
+    background-color: #01BAEF;
+    align-items: stretch;
+    justify-content: space-between
+    
+}
+/*need to combine navbar maybe */
+
+li {
+    display: inline-block;
+}
+#navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #01BAEF ;
+}
+/*colors
+Light blue 01BAEF
+Navyish 0B4F6C    lighter blue #0668D6
+
+light grey 757575
+off whiteFBFBFF
+offer white EEF0F2
+
+light blue 87BCDE 
+*/
+
+/* flex write*/
+
+#sociallinks {
+    display:flex;
+    flex-direction: horizontal ;
+    background-color: #01BAEF;
+}
+body {
+   background-color: #EEF0F2
+   ;
+
+}
+#gallery {
+    
+    width: 40%;
+    
+}
